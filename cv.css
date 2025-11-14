@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+body {
+    font-size:1rem;
+}
+
+#info {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+}
+
+#photo-cv {
+    width: 15%;
+}
